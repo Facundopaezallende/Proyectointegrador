@@ -104,3 +104,28 @@ margin-bottom: 20px;
     margin-bottom: 60px;
 }
 /*agregar los estilos necesarios abajo*/
+/*formulario Login*/
+.formregister{
+    width: 100px;
+    background-color: grey;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.datoslogin{
+    width: 30%;
+    background-color: grey;
+    padding:10px;
+    margin-bottom: 15px;
+    border: 1px solid; color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+.parrafologin1{
+    margin-bottom: 10px;
+}
+
+
