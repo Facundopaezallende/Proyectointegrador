@@ -5,12 +5,12 @@
     margin-bottom: 10px;
 }
 .logoamazon{
-    width: 30%;
-    height: 30%;
+    width: 20vw;
+    height: 60vh;
 }
 .logomara{
     width: 50px;
-    height: 50px;
+    max-height: 50px;
 }
 /*Estilo para recuperar contraseña*/
 *{
